@@ -17,6 +17,8 @@ If the 3D mouse is not changing the speed, check if the IP written in the receiv
 ----------
 
 **Release notes**
+> **1.1.1 - May 2023**
+Small cosmetic changes
 
 > **1.1.0 - January 2023**
 
