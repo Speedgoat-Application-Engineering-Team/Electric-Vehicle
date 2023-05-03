@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="scripts/embedded_sim_codegen_data.m" Name="embedded_sim_codegen_data">
+    <Extension Value="HEAD" Name="StartUpPrev"/>
+</Info>
